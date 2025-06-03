@@ -1,0 +1,50 @@
+# Equals: Job Matching Mobile Application
+
+**Equals** is an Android mobile application designed to help Persons With Disabilities (PWD) find suitable job opportunities efficiently. The app aims to bridge the gap between employers and PWD job seekers by providing a user-friendly platform for job matching.
+
+## Overview
+
+Equals was developed by **Eric Marc Martin**, **King Copones**, and **Roy Doria** as part of their Capstone Project at the Technological Institute of the Philippines (TIP) in 2019. The application focuses on inclusivity and accessibility, empowering PWD users to access employment opportunities with ease.
+
+## Partnership
+
+The project was done in partnership with **PHILCode**, an organization dedicated to [insert brief description about PHILCode, e.g., supporting tech education and empowering marginalized communities through coding].
+
+## Deployment
+
+This app was deployed on the **Google Play Store**.  
+You can watch a demo of the app here: [Equals Demo Video](https://www.youtube.com/watch?v=jcSYFyyEsbw)
+
+## Project Status
+
+This project is currently **archived** as the team members are busy with other commitments. However, we aim to update and improve the application whenever time permits.
+
+## Features
+
+- User-friendly job matching tailored for PWD users  
+- Accessibility-focused interface design  
+- Job listings from partner companies  
+- Easy application process through the app  
+
+## Technologies Used
+
+- Android (Java/Kotlin)  
+- Firebase/Backend (if applicable)  
+- RESTful APIs (if applicable)  
+
+## How to Use
+
+1. Download and install the Equals app on your Android device.  
+2. Register as a PWD job seeker or employer.  
+3. Browse or post job listings.  
+4. Apply for jobs or review applications directly through the app.  
+
+## Contributors
+
+- Eric Marc Martin  
+- King Copones  
+- Roy Doria  
+
+## Contact
+
+For more information, inquiries, or partnership opportunities, please contact ericmarcmartion@gmail.com
