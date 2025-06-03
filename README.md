@@ -8,7 +8,8 @@ Equals was developed by **Eric Marc Martin**, **King Copones**, and **Roy Doria*
 
 ## Partnership
 
-The project was done in partnership with **PHILCode**, an organization dedicated to [insert brief description about PHILCode, e.g., supporting tech education and empowering marginalized communities through coding].
+The project was done in partnership with **PHILCode** (The Philippine Council of Organizations on Disability and Empowerment), a non-profit umbrella organization in the Philippines. PHILCode’s member organizations provide programs and services that support persons with disabilities, including residential homes, livelihood opportunities, medical assistance, education, and advocacy for their inclusion in community services.
+
 
 ## Deployment
 
