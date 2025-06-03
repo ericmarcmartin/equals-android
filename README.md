@@ -48,4 +48,4 @@ This project is currently **archived** as the team members are busy with other c
 
 ## Contact
 
-For more information, inquiries, or partnership opportunities, please contact ericmarcmartion@gmail.com
+For more information, inquiries, or partnership opportunities, please contact ericmarcmartin@gmail.com
