@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "408652479735",
+    "firebase_url": "https://com-philcode-equals.firebaseio.com",
+    "project_id": "com-philcode-equals",
+    "storage_bucket": "com-philcode-equals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408652479735:android:28c22aa8cd3ce500",
+        "android_client_info": {
+          "package_name": "com.philcode.equals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408652479735-6i8ngege2u9rapv4mj52kalksenfckk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE9fixLkasXF_D4zjmUU-lpoKgP7vgSLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408652479735-6i8ngege2u9rapv4mj52kalksenfckk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
