@@ -1,4 +1,4 @@
-# Equals: Job Matching Mobile Application
+# Equals: Job Matching Mobile Application for Persons with Disabilities (PWDs)
 
 **Equals** is an Android mobile application designed to help Persons With Disabilities (PWD) find suitable job opportunities efficiently. The app aims to bridge the gap between employers and PWD job seekers by providing a user-friendly platform for job matching.
 
