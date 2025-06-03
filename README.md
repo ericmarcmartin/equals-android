@@ -43,8 +43,8 @@ This project is currently **archived** as the team members are busy with other c
 ## Contributors
 
 - Eric Marc Martin  
-- King Copones  
-- Roy Doria  
+- King David Copones  
+- Roy Adrian Doria  
 
 ## Contact
 
