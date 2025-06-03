@@ -30,8 +30,7 @@ This project is currently **archived** as the team members are busy with other c
 ## Technologies Used
 
 - Android (Java/Kotlin)  
-- Firebase/Backend (if applicable)  
-- RESTful APIs (if applicable)  
+- Firebase/Backend
 
 ## How to Use
 
